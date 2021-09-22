@@ -193,6 +193,11 @@ cacheable-request@^6.0.0:
     normalize-url "^4.1.0"
     responselike "^1.0.2"
 
+calc-js@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/calc-js/-/calc-js-2.0.7.tgz#d6091ef6cfbc2de04b66ff1aa4c03ed938d785b0"
+  integrity sha512-Ug8ZcTITqMaMbw50nLpnU+T2+pEbg2p0tWDC7Q1dTWMvlYznJPTrUmAaLzdaCq2Y0rmplG+PRrPdQSiCmPnOUg==
+
 camelcase@^5.3.1:
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-5.3.1.tgz#e3c9b31569e106811df242f715725a1f4c494320"
